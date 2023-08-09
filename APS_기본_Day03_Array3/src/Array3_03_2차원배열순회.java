@@ -4,8 +4,8 @@ public class Array3_03_2차원배열순회 {
 	public static void main(String[] args) {
 		
 		int[][] arr =  {{1,2,3},
-						{4,5,6},
-						{7,8,9}};
+				{4,5,6},
+				{7,8,9}};
 
 		int N = arr.length;
 		int M = arr[0].length;
